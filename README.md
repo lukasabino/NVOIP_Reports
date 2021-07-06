@@ -8,7 +8,7 @@ Then edit the following files:
 keys.json
 ```json
 {
-    "tt_key": "YOURNVOIPTOKEN",
+    "nvoip_token": "YOURNVOIPTOKEN",
     "data": {
         "some_user": {
             "username": "UserNameHere"
@@ -22,7 +22,7 @@ keys.json
 
 list.txt
 ```text
-Put in this file just one line, it will be displayed as many times as you have open tickets in your department, and it also has keywords :)
+Put in this file just one line, it will be displayed as many times as you have datas from NVOIP, and it also has keywords :)
 ```
 ## KeyWords List
 KeyWords for model.txt
