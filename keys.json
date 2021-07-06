@@ -1,0 +1,11 @@
+{
+    "nvoip_token": "",
+    "data": {
+        "some_user": {
+            "username": "UserNameHere"
+        },
+        "outer_some_user": {
+            "username": "UserNameHere"
+        }
+    }
+}

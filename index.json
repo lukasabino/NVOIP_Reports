@@ -1,0 +1,7 @@
+{
+    "bot_name": "NVOIP_Reports",
+    "version": "0.0.1",
+    "functions": {
+        "n": "nvoip"
+    }
+}
